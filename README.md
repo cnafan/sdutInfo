@@ -1,6 +1,5 @@
 # sdutInfo  
-![](https://img.shields.io/travis/USER/REPO.svg)  
-   
+![](https://img.shields.io/travis/USER/REPO.svg)   ![](https://img.shields.io/cocoapods/dt/AFNetworking.svg)
 ## 简介  
 采用python3的requests库添加header即可抓取。
 
